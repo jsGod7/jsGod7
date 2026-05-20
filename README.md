@@ -103,8 +103,8 @@ Built educational and visa-related platforms with real-time processing systems.
 ## 📫 Contact Me
 
 - 📧 Email: Nguyenphuthinh040507@gmail.com
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [Your GitHub]
+- 💼 LinkedIn: https://www.linkedin.com/in/nguyenphuthinh-devgithub
+- 🐙 GitHub:https://github.com/jsGod7
 
 ---
 

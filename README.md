@@ -40,6 +40,7 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - MongoDB
 - SQL Server
 - Redis
+- Cassandra
 
 ### ⚙️ DevOps & Tools
 - Docker
@@ -62,7 +63,7 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 ### 🏢 GallopTech — Fullstack Developer
 📅 Jan 2024 - Present
 
-Worked on enterprise CMS systems with modular and multi-tenant architecture.
+Worked on enterprise ERP systems with modular and multi-tenant architecture.
 
 #### Key Contributions
 - Developed scalable backend APIs using NestJS & PostgreSQL
@@ -108,7 +109,3 @@ Built educational and visa-related platforms with real-time processing systems.
 
 ---
 
-## 📈 GitHub Stats
-
-```bash
-Coming soon...

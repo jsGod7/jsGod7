@@ -1,113 +1,114 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+# 👋 Hi, I'm Nguyen Phu Thinh
 
-<p align="center">
-  Fullstack Web Developer • Data Engineer • Builder of practical products
-</p>
-
-<p align="center">
-  <a href="https://github.com/jsGod7"><img src="https://img.shields.io/github/followers/jsGod7?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/jsGod7"><img src="https://img.shields.io/github/stars/jsGod7?label=Stars&style=social" alt="GitHub stars"></a>
-</p>
+🚀 Fullstack Developer | DevOps Enthusiast  
+💻 Specialized in NestJS, ReactJS, Laravel & Cloud Infrastructure
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a fullstack web developer and data engineer who enjoys turning ideas into reliable, scalable systems.
+I’m a versatile Fullstack Developer passionate about building scalable web applications and automating deployment infrastructures.
 
-I focus on building:
-- clean and maintainable web applications
-- robust backend services and APIs
-- data pipelines, automation, and analytics workflows
-- products that are simple to use and easy to operate
+With hands-on experience in both frontend and backend development, I focus on delivering high-performance systems using modern technologies such as **NestJS**, **ReactJS**, **Laravel**, and **Docker**.
 
-I care about:
-- product quality
-- performance and reliability
-- good architecture
-- long-term maintainability
+I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring systems, containerization, and cloud infrastructure automation.
 
 ---
 
-## What I Do Best
+## ⚡ Tech Stack
 
-- Design and build end-to-end web applications
-- Create APIs and backend systems
-- Work with relational databases and data modeling
-- Build ETL / ELT pipelines and data workflows
-- Optimize developer experience and system maintainability
-- Translate business needs into practical technical solutions
+### 🚀 Languages
+- JavaScript
+- TypeScript
+- PHP
 
----
+### 🎨 Frontend
+- ReactJS
+- NextJS
+- VueJS
+- NuxtJS
+- Redux Toolkit
 
-## Tech Stack
+### 🛠 Backend
+- NestJS
+- ExpressJS
+- Laravel
 
-### Web Development
-- Frontend: `React`, `Next.js`, `TypeScript`, `Tailwind CSS`
-- Backend: `Laravel`, `Node.js`, `PHP`, `REST API`
-- State / UI: `Redux`, `Zustand`, `React Query`
+### 🗄 Database & Cache
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL Server
+- Redis
 
-### Data Engineering
-- Languages: `Python`, `SQL`
-- Pipelines: `ETL`, `ELT`, `batch processing`
-- Data Tools: `Pandas`, `Airflow`, `dbt`
-- Storage / Warehouses: `PostgreSQL`, `MySQL`, `BigQuery`, `Snowflake`
-
-### DevOps / Tools
-- `Docker`, `Git`, `Linux`
-- `AWS`, `Nginx`, `CI/CD`
-- Monitoring, logging, and deployment workflows
-
----
-
-## Featured Work
-
-Here are a few areas I usually build in:
-
-- **Web apps** - business apps, dashboards, admin panels, customer-facing products
-- **API services** - authentication, content management, integrations, business logic
-- **Data systems** - ingestion, transformation, reporting, automation
-- **Internal tools** - operations, workflow automation, productivity systems
-
-> Replace this section with 3 to 6 real projects that best represent your skills.
-
-Example format:
-- **Project Name** - short description of what it solves
-- **Project Name** - short description of what it solves
-- **Project Name** - short description of what it solves
+### ⚙️ DevOps & Tools
+- Docker
+- Nginx
+- Git
+- RabbitMQ
+- Elasticsearch
+- Grafana
+- Prometheus
+- Terraform
+- GitHub Actions
+- GitLab CI
+- Jenkins
+- Bitbucket Pipelines
 
 ---
 
-## Current Focus
+## 💼 Experience
 
-- Building better products with cleaner architecture
-- Improving data workflow reliability
-- Learning and applying better system design patterns
-- Shipping tools that are useful in real production environments
+### 🏢 GallopTech — Fullstack Developer
+📅 Jan 2024 - Present
 
----
+Worked on enterprise CMS systems with modular and multi-tenant architecture.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsGod7&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsGod7&layout=compact&theme=default" alt="Top languages" />
-</p>
+#### Key Contributions
+- Developed scalable backend APIs using NestJS & PostgreSQL
+- Built responsive frontend systems with ReactJS & Redux Toolkit
+- Designed CI/CD pipelines for automated deployments
+- Containerized services using Docker
+- Configured Nginx reverse proxy & HTTPS
+- Automated OCR workflows using n8n
 
 ---
 
-## Contact
+### 🏢 BeTech — Fullstack Developer
+📅 Mar 2025 - Present
 
-- GitHub: [@jsGod7](https://github.com/jsGod7)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+Built educational and visa-related platforms with real-time processing systems.
+
+#### Key Contributions
+- Designed student scoring & progress tracking systems
+- Integrated Bunny.net Object Storage
+- Implemented background job processing with Redis Queues
+- Managed Dockerized deployment environments
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+## 📚 Education
+
+🎓 Saigon Technology University  
+📅 2022 - Present
+
+---
+
+## 🏆 Achievements
+
+- TOEIC 700+ (2025)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: Nguyenphuthinh040507@gmail.com
+- 💼 LinkedIn: [Your LinkedIn]
+- 🐙 GitHub: [Your GitHub]
+
+---
+
+## 📈 GitHub Stats
+
+```bash
+Coming soon...

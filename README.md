@@ -74,8 +74,8 @@ Worked on enterprise CMS systems with modular and multi-tenant architecture.
 
 ---
 
-### 🏢 BeTech — Fullstack Developer
-📅 Mar 2025 - Present
+### 🏢 HappybookTravel — Fullstack Developer
+📅 Jan 2025 - Present
 
 Built educational and visa-related platforms with real-time processing systems.
 

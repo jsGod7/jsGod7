@@ -115,7 +115,7 @@ Saigon Technology University
 ## Contact Me
 
 - Email: Nguyenphuthinh040507@gmail.com
-- LinkedIn: :contentReference[oaicite:0]{index=0}
-- GitHub: :contentReference[oaicite:1]{index=1}
+- LinkedIn: https://www.linkedin.com/in/nguyenphuthinh-dev/
+- GitHub: https://github.com/jsGod7
 
 ---

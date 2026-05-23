@@ -84,17 +84,17 @@ Worked on enterprise ERP systems with modular and multi-tenant architecture.
 
 ---
 
-### HappybookTravel — Fullstack Developer
-Jan 2025 - Present
+#### HappyBook Travel — Fullstack Developer
+Jan 2025 – Present
 
-Built educational and visa-related platforms with real-time processing systems.
+Developed and maintained scalable travel booking and management platforms for tourism and visa services.
 
 #### Key Contributions
-- Designed student scoring & progress tracking systems
-- Integrated Bunny.net Object Storage
-- Implemented background job processing with Redis Queues
-- Managed Dockerized deployment environments
-
+- Built booking management and customer tracking systems
+- Developed real-time processing workflows using Redis Queues
+- Integrated Bunny.net Object Storage for media and file management
+- Managed Dockerized deployment environments and CI/CD workflows
+- Designed scalable backend services with NestJS, Laravel, PostgreSQL, and Redis
 ---
 
 ## Education

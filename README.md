@@ -63,6 +63,7 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - AWS CloudFront
 - AWS Route 53
 - AWS IAM
+- BunnyStorage
 
 ---
 

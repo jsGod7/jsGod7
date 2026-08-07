@@ -107,7 +107,7 @@ Saigon Technology University
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner (CLF-C02) — Amazon Web Services
+- AWS Certified Solutions Architect – Associate ( SAA - CO3 )
 - TOEIC 700 (2025)
 
 ---

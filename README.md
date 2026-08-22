@@ -21,6 +21,7 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - JavaScript
 - TypeScript
 - PHP
+- Golang
 
 ### Frontend
 - ReactJS
@@ -33,6 +34,7 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - NestJS
 - ExpressJS
 - Laravel
+- Gin
 
 ### Database & Cache
 - PostgreSQL

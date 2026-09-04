@@ -45,26 +45,17 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - Cassandra
 
 ### DevOps & Tools
-- Docker
+- Docker,K8S
 - Nginx
 - Git
 - RabbitMQ
 - Elasticsearch
-- Grafana
-- Prometheus
+- Grafana/Prometheus
 - Terraform
-- GitHub Actions
-- GitLab CI
-- Jenkins
-- Bitbucket Pipelines
+- Jenkins, Bitbucket Pipelines, GitLab CI, GitHub Actions
 
 ### Cloud
-- AWS EC2
-- AWS S3
-- AWS RDS
-- AWS CloudFront
-- AWS Route 53
-- AWS IAM
+- AWS
 - BunnyStorage
 
 ---

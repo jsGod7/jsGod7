@@ -28,7 +28,6 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - NextJS
 - VueJS
 - NuxtJS
-- Redux Toolkit
 
 ### Backend
 - NestJS
@@ -37,17 +36,12 @@ I also enjoy working with DevOps workflows including CI/CD pipelines, monitoring
 - Gin
 
 ### Database & Cache
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQL Server
-- Redis
-- Cassandra
+- MySQL, SQL Server, PostgreSQL
+- MongoDB, Cassandra, Redis
 
 ### DevOps & Tools
 - Docker,K8S
 - Nginx
-- Git
 - RabbitMQ
 - Elasticsearch
 - Grafana/Prometheus

@@ -38,29 +38,21 @@ I am a versatile Fullstack Developer passionate about engineering robust backend
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- Biểu đồ hoạt động commit theo thời gian -->
-  <a href="https://github.com/jsGod7">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsGod7&theme=tokyonight&hide_border=true&area=true" width="95%" alt="jsGod7 GitHub Activity Graph" />
-  </a>
-  
-  <br/><br/>
-
   <!-- Thống kê tổng quan & Chuỗi commit liên tục (Streak) -->
   <a href="https://github.com/jsGod7">
-    <img src="https://github-readme-stats.vercel.app/api?username=jsGod7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jsGod7 GitHub Stats" height="165" />
+    <img src="https://github-stats-extended.vercel.app/api?username=jsGod7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jsGod7 GitHub Stats" height="175" />
   </a>
   <a href="https://github.com/jsGod7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsGod7&theme=tokyonight&hide_border=true" alt="jsGod7 GitHub Streak" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=jsGod7&theme=tokyonight&hide_border=true" alt="jsGod7 GitHub Streak" height="175" />
   </a>
 
   <br/><br/>
 
   <!-- Top ngôn ngữ lập trình sử dụng nhiều nhất -->
   <a href="https://github.com/jsGod7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsGod7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="jsGod7 Top Languages" height="165" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jsGod7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="jsGod7 Top Languages" height="165" />
   </a>
 </div>
-
 ---
 
 ## 💼 Work Experience

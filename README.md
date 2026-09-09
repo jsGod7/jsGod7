@@ -64,7 +64,7 @@ Developed enterprise ERP platforms with modular and multi-tenant architecture.
 ##  Education
 
 **Saigon Technology University (STU)**  
-*Information Technology | 2022 – 2026
+Information Technology | 2022 – 2026
 
 ---
 

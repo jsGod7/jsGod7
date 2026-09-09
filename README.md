@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jsGod7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software Engineer+%7C;Building+Scalable+Microservices+%26+Cloud+Infra;AWS+Certified+Solutions+Architect+(SAA-C03);Specialized+in+NestJS%2C+React%2C+Laravel+%26+Golang" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+Scalable+Microservices+%26+Cloud+Infra;AWS+Certified+Solutions+Architect+(SAA-C03);Specialized+in+NestJS%2C+React%2C+Laravel+%26+Golang" alt="Typing SVG" />
   </a>
 </p>
 

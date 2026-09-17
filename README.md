@@ -79,7 +79,7 @@ I am a versatile Fullstack Developer passionate about engineering robust backend
 
 ## 💼 Work Experience
 
-### HappyBook Travel — Fullstack Developer
+### HappyBook Travel — Software Engineer
 *Jan 2026 – Present*
 
 Contributed to high-traffic OTA (Online Travel Agency) and visa processing platforms, focusing on core booking services and cloud architecture.
@@ -91,7 +91,7 @@ Contributed to high-traffic OTA (Online Travel Agency) and visa processing platf
 
 ---
 
-### GallopTech — Fullstack Developer
+### GallopTech — Software Engineer
 *Jan 2024 – Jan 2026*
 
 Developed enterprise ERP platforms with modular and multi-tenant architecture.

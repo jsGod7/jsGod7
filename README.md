@@ -92,7 +92,7 @@ Contributed to high-traffic OTA (Online Travel Agency) and visa processing platf
 ---
 
 ### GallopTech — Software Engineer
-*Jan 2024 – Jan 2026*
+*Jan 2023 – Jan 2026*
 
 Developed enterprise ERP platforms with modular and multi-tenant architecture.
 
